@@ -1,4 +1,3 @@
-![](https://komarev.com/ghpvc/?username=JVBorges)
 - 👋 Hi, I’m @JVBorges
 - 👀 I’m interested in mostly backend development
 - 🌱 I’m currently learning Elixir
